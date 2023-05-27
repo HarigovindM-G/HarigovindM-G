@@ -6,10 +6,7 @@ Welcome to my GitHub profile! I'm Harigovind, a computer science engineering stu
 I'm currently diving deep into frontend technologies, specifically honing my skills in React. The React course provided by Meta is helping me develop a strong foundation in building dynamic and interactive web applications. Concurrently, I'm also exploring other areas of computer science and expanding my knowledge base.
 
 ## 💻 Interests
-Frontend Development (HTML, CSS, JavaScript)
-Web Development
-Data Structures and Algorithms
-Python Development
+Frontend Development (HTML, CSS, JavaScript), React, Web Development, Data Structures and Algorithms, Python Development
 
 
 ## 🚀 Goals
