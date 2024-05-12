@@ -1,22 +1,36 @@
-# Hi there, I'm Harigovind M G 👋
-### Computer Science Engineering Student | Frontend Dev
-Welcome to my GitHub profile! I'm Harigovind, a computer science engineering student with a passion for coding and exploring various technologies. Currently, I'm focusing on frontend development and learning the ins and outs of React through the React course provided by Meta. However, I have broader interests in different tech domains and constantly seek opportunities to expand my knowledge and skills.
+# 👋 Hey there, I'm Harigovind M G!
 
-## 🌱 Currently Learning
-I'm currently diving deep into frontend technologies, specifically honing my skills in React. The React course provided by Meta is helping me develop a strong foundation in building dynamic and interactive web applications. Concurrently, I'm also exploring other areas of computer science and expanding my knowledge base.
+I'm a passionate computer science engineering student with a knack for diving deep into various technologies. Currently, my journey has led me to explore the intersection of frontend, backend, and blockchain technologies.
 
-## 💻 Interests
-- Frontend Development (HTML, CSS, JavaScript, React)
-- Web Development
-- Data Structures and Algorithms
+## 💼 About Me
+
+- 🎓 Computer Science Engineering Student
+- 👨‍💻 Full Stack Developer
+- ⛓️🌐 BlockChain Enthusiast
+
+## 🌱 Currently Delving Into
+
+I'm currently honing my skills in both frontend and backend technologies, with a specific focus on React and Next.js for frontend development, and Express for backend development. Additionally, I'm delving into blockchain technology, particularly mastering Solidity for smart contract development.
+
+## 💡 Interests
+
+- Frontend Development (HTML, CSS, JavaScript, React, Next.js)
+- Backend Development (Node.js, Express)
+- Database Management (MongoDB, SQL)
+- Blockchain Development (Solidity)
+- Decentralized Finance (DeFi)
+- Smart Contracts
+- Web3 Technologies
 - Python Development
 
-
 ## 🚀 Goals
-My goal is to become a versatile software engineer with expertise across various tech stacks. I believe in continuous learning and enjoy challenging myself with new projects and technologies. Additionally, I'm keen on contributing to open source projects and collaborating with like-minded individuals.
+
+My ambition is to become a versatile full-stack developer with expertise across various tech stacks, including both traditional web development technologies and emerging blockchain technologies. I believe in continuous learning and enjoy challenging myself with new projects and technologies.
 
 ## 🌟 Open Source Contributions
-I'm actively seeking opportunities to contribute to open source projects. By participating in the open source community, I aim to enhance my coding skills, gain valuable experience, and make meaningful contributions to the tech industry.
+
+While I'm deeply immersed in exploring the fusion of web development and blockchain, my commitment to open source remains steadfast. I'm actively seeking opportunities to contribute to both frontend, backend, and blockchain projects, aiming to make meaningful contributions to the tech industry and sharpen my skills in the process.
 
 ## 📫 Let's Connect
-If you'd like to connect, collaborate, or discuss tech-related topics, feel free to reach out to me via email (harigovindmg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harigovind-m-g-881a8b20a/). I'm always open to connecting with fellow developers and enthusiasts.
+
+If you share my passion for full-stack development, blockchain, or simply want to discuss tech-related topics, feel free to reach out to me via email (harigovindmg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harigovind-m-g-881a8b20a/). I'm always open to connecting with fellow developers, blockchain enthusiasts, and anyone curious about the ever-evolving world of technology.
