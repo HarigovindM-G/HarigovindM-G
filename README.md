@@ -17,7 +17,7 @@ I'm currently honing my skills in both frontend and backend technologies, with a
 - Frontend Development (HTML, CSS, JavaScript, React, Next.js)
 - Backend Development (Node.js, Express)
 - Database Management (MongoDB, SQL)
-- Blockchain Development (Solidity)
+- Blockchain Development (Solidity,Hardhat,ethers)
 - Decentralized Finance (DeFi)
 - Smart Contracts
 - Web3 Technologies
