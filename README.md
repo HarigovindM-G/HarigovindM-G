@@ -1,36 +1,46 @@
-# 👋 Hey there, I'm Harigovind M G!
+# 👋 Hey, I'm Harigovind M G!
 
-I'm a passionate computer science engineering student with a knack for diving deep into various technologies. Currently, my journey has led me to explore the intersection of frontend, backend, and blockchain technologies.
+I’m a **Computer Science Engineering student at CUSAT** (CGPA: 9.48) with a deep passion for **full-stack development** and **Web3 technologies**. Currently, I work as a **Web3 remote intern at Invsto**, where I play a key role in designing and developing **decentralized applications (dApps)** to support **DeFi initiatives**.
 
-## 💼 About Me
+## 💼 What I Do
 
-- 🎓 Computer Science Engineering Student
-- 👨‍💻 Full Stack Developer
-- ⛓️🌐 BlockChain Enthusiast
+🚀 **Web3 Development | Full-Stack Engineering | Decentralized Finance (DeFi)**  
 
-## 🌱 Currently Delving Into
+- **Blockchain Development**: Solidity, Hardhat, Ethers.js, Wagmi, Anchor, Rust, Solana  
+- **Frontend & UI Engineering**: React, Next.js, Tailwind CSS  
+- **Backend Development**: Node.js, Express.js, MongoDB, FastAPI  
+- **DevOps & Tooling**: Docker, Git, Excalidraw  
+- **Research & Documentation**: Staying ahead of Web3 advancements and guiding teams  
 
-I'm currently honing my skills in both frontend and backend technologies, with a specific focus on React and Next.js for frontend development, and Express for backend development. Additionally, I'm delving into blockchain technology, particularly mastering Solidity for smart contract development.
+At **Invsto**, I actively contribute to:  
+✅ **Architecting & developing decentralized applications**  
+✅ **Making Proof of Concepts (POCs) for the team and Demoing them**  
+✅ **Mentoring Web2 developers transitioning into Web3**  
+✅ **Managing workflows and ensuring seamless development processes**  
 
-## 💡 Interests
+## 🛠️ Skills & Expertise  
 
-- Frontend Development (HTML, CSS, JavaScript, React, Next.js)
-- Backend Development (Node.js, Express)
-- Database Management (MongoDB, SQL)
-- Blockchain Development (Solidity,Hardhat,ethers)
-- Decentralized Finance (DeFi)
-- Smart Contracts
-- Web3 Technologies
-- Python Development
+- **Languages**: JavaScript, Python, Solidity, C++, Java, Rust, C  
+- **Smart Contracts & Web3**: Ethereum, Chainlink VRF, Solana  
+- **Database Management**: MongoDB, MySQL  
 
-## 🚀 Goals
+### 📜 Tech Certifications  
+🎯 **Python Programming** – University of Michigan  
+🎯 **Professional Frontend Developer** – Meta  
 
-My ambition is to become a versatile full-stack developer with expertise across various tech stacks, including both traditional web development technologies and emerging blockchain technologies. I believe in continuous learning and enjoy challenging myself with new projects and technologies.
+## 🌟 Featured Projects  
 
-## 🌟 Open Source Contributions
+- **Decentralized dApp at Invsto** – Leading frontend & smart contract development for a **DeFi-focused Web3 application**.  
+- **Decentralized Lottery** – Integrated **Chainlink VRF 2.5** for randomness & **Keepers** for automation.  
+- **FullStack FundMe App** – Developed & tested **smart contracts** for a crowdfunding platform.  
 
-While I'm deeply immersed in exploring the fusion of web development and blockchain, my commitment to open source remains steadfast. I'm actively seeking opportunities to contribute to both frontend, backend, and blockchain projects, aiming to make meaningful contributions to the tech industry and sharpen my skills in the process.
+## 📫 Connect with Me  
 
-## 📫 Let's Connect
+📧 **Email**: [harigovindmg@gmail.com](mailto:harigovindmg@gmail.com)  
+💼 **LinkedIn**: [Harigovind M G](https://www.linkedin.com/in/harigovind-m-g-881a8b20a/)  
+🖥️ **GitHub**: [HarigovindM-G](https://github.com/HarigovindM-G) *(Not very active here, as I primarily use my work GitHub profile.)*  
 
-If you share my passion for full-stack development, blockchain, or simply want to discuss tech-related topics, feel free to reach out to me via email (harigovindmg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harigovind-m-g-881a8b20a/). I'm always open to connecting with fellow developers, blockchain enthusiasts, and anyone curious about the ever-evolving world of technology.
+---
+
+🚀 Always open to **collaborations, discussions on Web3, and exploring new opportunities!**  
+
