@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Harigovind M G!
+# Hey, I'm Hari !
 
 I’m a **Computer Science Engineering student at CUSAT** (CGPA: 9.29) with a deep passion for **Software Engineering** . Currently, I work as a **Remote Software engineer at Invsto**, where I work accross , **Infrastructure** , **Backend** , **Web3** , **Devops** and **Data Engineering** Divisions.
  
